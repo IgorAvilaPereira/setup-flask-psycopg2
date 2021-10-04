@@ -2,6 +2,9 @@
 
 ## How to use!!
 
+
+### Linux 
+
 ```sh
 $ sudo chmod +x setup-flask-psycopg.sh
 $ ./setup-flask-psycopg
