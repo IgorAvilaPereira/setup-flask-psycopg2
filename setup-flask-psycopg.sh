@@ -9,6 +9,8 @@ echo "app = Flask(__name__)" >> "app.py"
 echo "@app.route(\"/\")" >> "app.py"
 echo "def hello_world():" >> "app.py"
 echo "  return \"<p>Hello, World!</p>\"" >> "app.py"
+mkdir templates
+mkdir static
 export FLASK_APP=app
 export FLASK_ENV=development
 flask run
