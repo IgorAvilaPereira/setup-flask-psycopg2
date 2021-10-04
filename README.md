@@ -1,4 +1,4 @@
-# setup-flask-psycopg2: How to install Automatically Flask and Psycopg2 via Script
+# How to install Automatically Flask and Psycopg2 via Script
 
 ## How to use!!
 
