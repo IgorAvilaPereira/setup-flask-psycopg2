@@ -8,6 +8,9 @@
 $ sudo chmod +x setup-flask-psycopg.sh
 $ ./setup-flask-psycopg
  ```
-
-![Alt Text](install.gif)
-
+ 
+ ![Alt Text](install.gif)
+ 
+ ### Windows
+ 
+Nnever been tested! (Nunca foi testado!!)
