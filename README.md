@@ -13,4 +13,4 @@ $ ./setup-flask-psycopg
  
  ### Windows
  
-Nnever been tested! (Nunca foi testado!!)
+Never been tested! (Nunca foi testado!!)
