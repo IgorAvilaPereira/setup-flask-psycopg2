@@ -10,7 +10,3 @@ $ ./setup-flask-psycopg
  ```
  
  ![Alt Text](install.gif)
- 
- ### Windows
- 
-Never been tested! (Nunca foi testado!!)
