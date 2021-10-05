@@ -11,6 +11,7 @@ echo "def hello_world():" >> "app.py"
 echo "  return \"<p>Hello, World!</p>\"" >> "app.py"
 mkdir templates
 mkdir static
+# Caso pare o servidor. Reexecutar estes comandos dentro da pasta do projeto
 export FLASK_APP=app
 export FLASK_ENV=development
 flask run
